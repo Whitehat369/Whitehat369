@@ -29,6 +29,7 @@ This profile is a record of my learning and project work. I value clear methods,
 ## Tools
 
 **Programming:** Python · R · C++ · javaScript
+
 **Developing skills in:** biological databases, sequence analysis, and reproducible workflows
 
 ## Projects
